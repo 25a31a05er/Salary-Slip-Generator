@@ -21,7 +21,7 @@ This project is a simple C program that takes employee details such as ID, name,
    ./salary  
 
 3. Enter the employee details when prompted  
-4. Check the generated `salary_slip.txt` file  
+4. Check the generated `salary_slip.c` file  
 
 ## Output  
-- A text file named `salary_slip.txt` containing the employee salary details
+- A text file named `salary_slip.c` containing the employee salary details
